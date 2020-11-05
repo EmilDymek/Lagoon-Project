@@ -46,6 +46,15 @@ MonoBehaviour:
   sounds:
   - name: Test Music
     clip: {fileID: 8300000, guid: e392267026139494b82fad6338b3965c, type: 3}
+    audioMixerGroup: {fileID: -8716140554136592579, guid: 77f35f4503a97b442b58a48bed350f9e,
+      type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  music:
+  - name: 
+    clip: {fileID: 8300000, guid: e392267026139494b82fad6338b3965c, type: 3}
     audioMixerGroup: {fileID: -4790103449310849907, guid: 77f35f4503a97b442b58a48bed350f9e,
       type: 2}
     volume: 0.5
